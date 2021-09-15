@@ -1,0 +1,39 @@
+public class Product {
+
+    String rodzaj;
+    String proba;
+    String dlugosc_cm;
+    String kamien;
+    String kruszec_kolor;
+    String kolekcja;
+    double masa_kamienia_centralnego_ct;
+    String kamienie_dodatkowe;
+    String masa_kamieni_dodatkowych;
+    String czystosc_diamentow;
+    String barwa_diamentow;
+    String waga;
+    String wymiary;
+    Boolean grawer;
+    double szerokosc_pierscionka;
+    double szerokosc_obraczki_meskiej;
+    double szerokosc_obraczki_damskiej;
+    Boolean soczewka;
+    String dla_kogo;
+    String typ_zapiecia;
+    String splot;
+    double szerokosc_lancuszka_mm;
+    String wizerunek;
+    String styl;
+    String pochodzenie;
+    String szkielko;
+    String rodzaj_koperty;
+    int szerokosc_koperty_mm;
+    int grubosc_koperty;
+    String typ_paska;
+    String kolor_paska;
+    String kolor_tarczy;
+    String wodoszczelnosc;
+    String mechanizm;
+    String gwarancja;
+    int szerokosc_paska_mm;
+}
